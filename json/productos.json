@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "tipo": "Bombones",
+        "nombre": "Caja x 2 unidades",
+        "precio": 2000,
+        "foto": "./img/cajax2.jpg"
+    },
+    {
+        "id": 2,
+        "tipo": "Bombones",
+        "nombre": "Caja x 6 unidades",
+        "precio": 5400,
+        "foto": "./img/cajax6.jpeg"
+    },
+    {
+        "id": 3,
+        "tipo": "Bombones",
+        "nombre": "Caja x 8 unidades",
+        "precio": 7000,
+        "foto": "./img/caja x8.jpg"
+    },
+    {
+        "id": 4,
+        "tipo": "Botellitas",
+        "nombre": "Botellitas x 12 unidades",
+        "precio": 8900,
+        "foto": "./img/botellitas.jpeg"
+    },
+    {
+        "id": 5,
+        "tipo": "Bombones",
+        "nombre": "Caja x 15 unidades",
+        "precio": 13500,
+        "foto": "./img/cajax15.jpeg"
+    },
+    {
+        "id": 6,
+        "tipo": "Bombones",
+        "nombre": "Caja x 20 unidades",
+        "precio": 15000,
+        "foto": "./img/cajax20.jpg"
+    },
+    {
+        "id": 7,
+        "tipo": "Tableta",
+        "nombre": "Tableta de Frutos secos",
+        "precio": 4000,
+        "foto": "./img/TdefrutosSecos.jpeg"
+    },
+    {
+        "id": 8,
+        "tipo": "Tableta",
+        "nombre": "Tableta de Naranja y Licor de Naranja",
+        "precio": 3500,
+        "foto": "./img/Tnaranja.jpeg"
+    },
+    {
+        "id": 9,
+        "tipo": "Tableta",
+        "nombre": "Tableta de Pistaccio",
+        "precio": 4500,
+        "foto": "./img/Tpistaccio.jpeg"
+    },
+    {
+        "id": 10,
+        "tipo": "Tableta",
+        "nombre": "Tableta solo chocolate 100% belga ",
+        "precio": 4000,
+        "foto": "./img/Tbelga.jpeg"
+    },
+    {
+        "id": 11,
+        "tipo": "Bandeja surtido Mesa Dulce",
+        "nombre": "Bandeja con bombones surtidos x 30 unidades para eventos",
+        "precio": 23000,
+        "foto": "./img/bandeja.jpeg"
+    },
+    {
+        "id": 12,
+        "tipo": "Regalo Empresarial",
+        "nombre": "Regalo Empresarial x 20 unidades (20 cajitas x 2 unidades)",
+        "precio": 28000,
+        "foto": "./img/regaloEmp.jpeg"
+    },
+    {
+        "id": 13,
+        "tipo": "Regalo Empresarial",
+        "nombre": "Regalo Empresarial x 50 unidades (50 cajitas x 2 unidades)",
+        "precio": 60000,
+        "foto": "./img/regaloEmp.jpeg"
+    }
+]
